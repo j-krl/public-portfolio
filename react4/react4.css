@@ -1,0 +1,13 @@
+@import url("http://maxbeier.github.io/tawian-frontend/tawian-frontend.css");
+@import url("https://fonts.googleapis.com/css?family=Cousine:400,400i,700,700i");
+
+strong {
+    margin: 1rem;
+    font-size: 1.25rem;
+}
+
+.gameBox {
+    width: 700px;
+    margin: auto;
+}
+
